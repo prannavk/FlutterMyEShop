@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+# other
+assets/icons
+assets/images
+lib/size_config.dart
+lib/components/custom_bottom_nav_bar.dart
+lib/components/custom_suffix_icon.dart
+lib/components/popular_product.dart
+lib/components/product_card.dart
+lib/screen/login_screen/
+lib/screen/sign_up/
+lib/screen/splash/
+lib/screen/forgot_password/
+lib/screen/login_screen/
+lib/screen/cart/complete_profile
+lib/screen/components/splash_content.dart
+lib/screen/details/components/custom_appbar.dart
+lib/screen/details/components/top_rounded_corner.dart
+lib/screen/details/components/product_images.dart
+lib/screen/home/components/discount_banner.dart
+lib/screen/home/components/section_title.dart
+lib/screen/home/components/icon_btn_with_counter.dart
+lib/screen/home/components/special_offer.dart
+lib/screen/profile/components/profile_menu.dart
